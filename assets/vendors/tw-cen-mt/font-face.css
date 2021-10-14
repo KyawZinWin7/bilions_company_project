@@ -1,0 +1,125 @@
+@font-face {
+  font-family: "Tw Cen Classified MT Std";
+  src: url("fonts/TwCenClassMTStd-Regular.woff2") format("woff2"),
+    url("fonts/TwCenClassMTStd-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tw Cen MT Std";
+  src: url("fonts/TwCenMTStd-Bold.woff2") format("woff2"),
+    url("fonts/TwCenMTStd-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tw Cen MT Std";
+  src: url("fonts/TwCenMTStd-ExtraBoldCond.woff2") format("woff2"),
+    url("fonts/TwCenMTStd-ExtraBoldCond.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tw Cen MT Std";
+  src: url("fonts/TwCenMTStd-Italic.woff2") format("woff2"),
+    url("fonts/TwCenMTStd-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tw Cen MT Std";
+  src: url("fonts/TwCenMTStd-LightItalic.woff2") format("woff2"),
+    url("fonts/TwCenMTStd-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tw Cen MT Std";
+  src: url("fonts/TwCenMTStd-MediumCond.woff2") format("woff2"),
+    url("fonts/TwCenMTStd-MediumCond.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tw Cen MT Std";
+  src: url("fonts/TwCenMTStd-ExtraBold.woff2") format("woff2"),
+    url("fonts/TwCenMTStd-ExtraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tw Cen MT Std";
+  src: url("fonts/TwCenMTStd-SemiMedium.woff2") format("woff2"),
+    url("fonts/TwCenMTStd-SemiMedium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tw Cen MT Std";
+  src: url("fonts/TwCenMTStd-Light.woff2") format("woff2"),
+    url("fonts/TwCenMTStd-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tw Cen MT Std";
+  src: url("fonts/TwCenMTStd-BoldCond.woff2") format("woff2"),
+    url("fonts/TwCenMTStd-BoldCond.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tw Cen MT Std";
+  src: url("fonts/TwCenMTStd-UltraBoldCond.woff2") format("woff2"),
+    url("fonts/TwCenMTStd-UltraBoldCond.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tw Cen MT Std";
+  src: url("fonts/TwCenMTStd.woff2") format("woff2"),
+    url("fonts/TwCenMTStd.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tw Cen MT Std";
+  src: url("fonts/TwCenMTStd-UltraBoldIt.woff2") format("woff2"),
+    url("fonts/TwCenMTStd-UltraBoldIt.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tw Cen MT Std";
+  src: url("fonts/TwCenMTStd-UltraBold.woff2") format("woff2"),
+    url("fonts/TwCenMTStd-UltraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}

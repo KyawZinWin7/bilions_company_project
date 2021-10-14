@@ -1,0 +1,20 @@
+{
+    "name": "bilions/company-website",
+    "description": "Bilions Company Website",
+    "authors": [
+        {
+            "name": "AJ",
+            "email": "necessarylion@gmail.com"
+        }
+    ],
+    "require": {
+        "eftec/bladeone": "^3.52",
+        "bramus/router": "^1.5",
+        "phpmailer/phpmailer": "^6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
